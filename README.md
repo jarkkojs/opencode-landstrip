@@ -1,5 +1,7 @@
 # opencode-landstrip
 
+>**Archived and moved** to https://github.com/landstrip/landstrip.
+
 `opencode-landstrip` is a plugin for [OpenCode](https://opencode.ai/) providing
 a sandbox defined with a policy compatible with Anthropic's JSON format. It uses
 [`landstrip`](https://github.com/landstrip/landstrip) to implement the sandbox.
